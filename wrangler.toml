@@ -1,6 +1,7 @@
-name = "edt2"
+name = "edt-cm"
 main = "_worker.js"
 compatibility_date = "2025-08-07"
 
 keep_vars = true
+
 
